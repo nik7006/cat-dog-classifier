@@ -119,10 +119,10 @@ The model was evaluated using:
 
 | Metric | Score |
 |---------|---------|
-| Accuracy | 68.71% |
-| Precision | 66.64% |
-| Recall | 75.00% |
-| F1-Score | 70.57% |
+| Accuracy | 75.28% |
+| Precision | 76% |
+| Recall | 76% |
+| F1-Score | 76% |
 
 ---
 
@@ -130,24 +130,27 @@ The model was evaluated using:
 
 | Class | Precision | Recall | F1-Score |
 |---------|---------|---------|---------|
-| Cat | 0.71 | 0.62 | 0.67 |
-| Dog | 0.67 | 0.75 | 0.71 |
-
+| Cat | 0.76 | 0.75 | 0.76 |
+| Dog | 0.76 | 0.76 | 0.76 |
 ---
+### Overall Accuracy
+
+**75.28%**
+
 
 ## 🔲 Confusion Matrix
 
-```
-[[631 380]
- [253 759]]
+```text
+[[761 250]
+ [240 772]]
 ```
 
-Interpretation:
+### Interpretation
 
-- Correctly Classified Cats: 631
-- Misclassified Cats: 380
-- Correctly Classified Dogs: 759
-- Misclassified Dogs: 253
+- Correctly Classified Cats = 761
+- Incorrectly Classified Cats = 250
+- Correctly Classified Dogs = 772
+- Incorrectly Classified Dogs = 240
 
 ---
 
