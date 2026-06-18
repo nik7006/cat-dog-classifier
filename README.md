@@ -138,12 +138,11 @@ The model was evaluated using:
 | Cat | 0.76 | 0.75 | 0.76 |
 | Dog | 0.76 | 0.76 | 0.76 |
 ---
-
-<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/ee1e0e2d-7da7-41c5-9766-18815d512706" />
----
-Overall Accuracy
+### Overall Accuracy
 
 **75.28%**
+
+<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/ee1e0e2d-7da7-41c5-9766-18815d512706" />
 
 
 ## 🔲 Confusion Matrix
