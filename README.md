@@ -188,14 +188,14 @@ model.save('cat_dog_classifier.h5')
 
 ### Training Accuracy Graph
 
-(Add Screenshot)
+<img width="864" height="790" alt="image" src="https://github.com/user-attachments/assets/bb608ea9-4597-4f4f-8929-39cd676ba93e" />
 
 ### Training Loss Graph
 
-(Add Screenshot)
+<img width="600" height="914" alt="image" src="https://github.com/user-attachments/assets/d726493e-e5d4-4939-bae8-5d7610434be7" />
 
 ### Confusion Matrix
 
-(Add Screenshot)
+<img width="1030" height="938" alt="image" src="https://github.com/user-attachments/assets/d3f04dee-5ca6-4284-98d5-0adc6a71eb82" />
 
 ---
