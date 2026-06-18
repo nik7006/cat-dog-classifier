@@ -139,7 +139,7 @@ The model was evaluated using:
 | Dog | 0.76 | 0.76 | 0.76 |
 ---
 
-<img width="942" height="674" alt="image" src="https://github.com/user-attachments/assets/ee1e0e2d-7da7-41c5-9766-18815d512706" />
+<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/ee1e0e2d-7da7-41c5-9766-18815d512706" />
 ### Overall Accuracy
 
 **75.28%**
