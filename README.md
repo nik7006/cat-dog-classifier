@@ -207,3 +207,12 @@ model.save('cat_dog_classifier.h5')
 <img width="1030" height="938" alt="image" src="https://github.com/user-attachments/assets/d3f04dee-5ca6-4284-98d5-0adc6a71eb82" />
 
 ---
+## Conclusion
+This project successfully developed a Convolutional Neural Network (CNN) for the classification of cat and dog images. The model was trained and tested on a labeled dataset containing images from two categories: cats and dogs.
+
+The CNN was able to learn important visual features from the input images and classify them with an overall accuracy of 75.28%. The model achieved a Precision of 76%, Recall of 76%, and an F1-Score of 76%, indicating reliable and balanced performance across both classes.
+
+The confusion matrix and classification report demonstrate that the model effectively distinguishes between cat and dog images while maintaining consistent prediction accuracy. The results confirm that Convolutional Neural Networks are well-suited for image classification tasks and can successfully extract meaningful patterns from visual data.
+
+Overall, this project provides practical experience in deep learning, image preprocessing, model training, performance evaluation, and computer vision applications. The developed classifier serves as a solid foundation for more advanced image recognition systems and real-world deep learning applications
+
