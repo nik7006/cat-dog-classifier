@@ -7,6 +7,14 @@ This project implements a Convolutional Neural Network (CNN) for binary image cl
 The objective is to automatically classify an input image as either a cat or a dog using deep learning techniques.
 
 ---
+## 🎯 Objectives
+
+- Build a CNN model for image classification
+- Train the model on cat and dog images
+- Evaluate model performance using graphs
+- Test the model on custom images
+- Understand CNN workflow
+
 ##  Architecture
 
 <img width="1742" height="764" alt="image" src="https://github.com/user-attachments/assets/fd6a8248-1d9d-43e1-8372-1fe42774c90c" />
